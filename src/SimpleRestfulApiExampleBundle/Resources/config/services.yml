@@ -1,0 +1,4 @@
+services:
+#    simple_restful_api_example.example:
+#        class: SimpleRestfulApiExampleBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
