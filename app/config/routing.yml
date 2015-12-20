@@ -1,4 +1,3 @@
-simple_restful_api_example:
+app:
     resource: "@SimpleRestfulApiExampleBundle/Controller/"
     type:     annotation
-    prefix:   /

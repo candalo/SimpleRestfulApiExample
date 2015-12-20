@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -66,3 +67,7 @@ Enjoy!
 [10]: https://symfony.com/doc/3.0/cookbook/email.html
 [11]: https://symfony.com/doc/3.0/cookbook/logging/monolog.html
 [13]: https://symfony.com/doc/3.0/bundles/SensioGeneratorBundle/index.html
+=======
+# SimpleRestfulApiExample
+A simple example of restful API
+>>>>>>> 0fcf4b4c6f8f11eae3e71678479cd148226053b4
