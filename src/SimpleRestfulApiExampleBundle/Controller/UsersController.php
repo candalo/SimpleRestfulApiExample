@@ -62,10 +62,6 @@ class UsersController extends Controller
             ->getQuery()
             ->getSingleResult(\Doctrine\ORM\Query::HYDRATE_ARRAY);
 
-        // User not found
-        if(!$user)
-            return new JsonResponse(array('error'=>'user not found'), JsonResponse::HTTP_NOT_FOUND);
-
         return new JsonResponse($user);
     }
 
